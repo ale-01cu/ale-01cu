@@ -10,6 +10,14 @@
 --- 
 </br>
 
+🔭 Working in the tech industry.<br/>
+🌱 Basic-Intermediate my English .<br/>
+🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+💼 +2 years of experience as a developer.<br/>
+🌎 I love to travel and Programming.<br/>
+
+</br>
+
 <h3>
   🚀 Principal Stack
 </h3> 
@@ -47,12 +55,13 @@
 </p>
 </br>
 
+</br>
+
 ### 🌱 I'm currently learning... / Last Projects
 
 - Design and Architecture
 - GraphQL / AWS / Docker 
 - FastApi
-</br>
 
 </br>
 
