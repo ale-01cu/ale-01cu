@@ -1,7 +1,7 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 <h1 align="center">Hi 👋, I'm Alejandro Figueroa Rodríguez</h1>
-<h3 align="center">I Love Programming... !!!</h3>
+<h3 align="center">Developer & Eternal Learner. 📚🤓</h3>
 <img align='center' alt=Programming src="https://wallpaperaccess.com/full/3239444.jpg">
 <p align="left"><p/>
 
