@@ -16,7 +16,7 @@
 🌎 I love to travel and Programming.<br/>
 🔭 Teamwork experience .<br/>
 🧠 ICPC contestant <br/>
-👨🏼‍🎓 Finalist of the ICPC Caribbean Final https://collectors.poap.xyz/mint/l8pidq/success. 
+🏆 Finalist of the ICPC Caribbean Final https://collectors.poap.xyz/mint/l8pidq/success. 
 
 
 </br>
@@ -43,12 +43,13 @@
 </p>
 <h4>Backend Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Django-003300?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/FastApi-212121?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-0F2484?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
 <p>
