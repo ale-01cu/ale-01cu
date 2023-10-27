@@ -10,12 +10,14 @@
 --- 
 </br>
 
-🔭 Computer Engineering Student.<br/>
 🌱 Basic-Intermediate English .<br/>
-🎓 Software Engineer in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+🎓 Computer Engineering Student in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
 💼 +2 years of experience as a developer.<br/>
 🌎 I love to travel and Programming.<br/>
-🧠 Caribbean Finals of the ICPC. https://collectors.poap.xyz/mint/l8pidq/success <br/>
+🔭 Teamwork experience .<br/>
+🧠 ICPC contestant <br/>
+👨🏼‍🎓 Finalist of the ICPC Caribbean Final https://collectors.poap.xyz/mint/l8pidq/success. 
+
 
 </br>
 
