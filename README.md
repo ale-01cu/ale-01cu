@@ -65,7 +65,6 @@
 
 - Design and Architecture
 - Competitive Programming
-- FastApi
 
 </br>
 
