@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alejandro Figueroa Rodríguez</h1>
 <h3 align="center">I am passionate about technology 🧑‍💻. I love programming and software development. 🤓</h3>
-<img align='center' alt=Programming src="https://wallpaperaccess.com/full/3239444.jpg">
+<img align='center' alt=Programming src="[https://wallpaperaccess.com/full/3239444.jpg](https://drive.google.com/file/d/1pbeyTgXpCO3DL361-2OtXryA1HYHaAS-/view?usp=drive_link)">
 <p align="left"><p/>
 
 </br>
