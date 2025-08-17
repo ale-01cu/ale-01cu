@@ -11,9 +11,9 @@
 </br>
 
 📚 Eternal Learner.<br/>
-🌱 Basic-Intermediate English .<br/>
-🎓 Computer Engineering Student in the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
-💼 +2 years of experience as a developer.<br/>
+🌱 Intermediate English .<br/>
+🎓 Graduate of the [University of Informatics Sciences](https://www.uci.cu/en) (UCI).<br/>
+💼 +4 years of experience as a developer.<br/>
 🌎 I love to travel and Programming.<br/>
 🔭 Teamwork experience .<br/>
 🧠 ICPC contestant <br/>
@@ -83,7 +83,3 @@
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ale-01cu&show_icons=true&locale=en" /></td>
   </tr>
 </table>
-
-
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
