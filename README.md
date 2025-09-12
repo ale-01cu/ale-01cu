@@ -1,81 +1,74 @@
-# 👋 Hola, soy Alejandro Figueroa Rodríguez
+# 👋 Hi, I'm Alejandro Figueroa Rodríguez  
 
-🎯 **Desarrollador de Software | Fullstack Engineer | Apasionado por la innovación**
+🎯 **Software Developer | Fullstack Engineer | Passionate about Innovation**  
 
-Soy ingeniero en Ciencias Informáticas en formación (UCI, 2021 - 2025) con experiencia en **desarrollo frontend y backend**, machine learning y despliegue de aplicaciones.  
-Me defino como una persona curiosa, proactiva y en constante aprendizaje, siempre en busca de aportar valor y crear soluciones digitales innovadoras.
-
----
-
-## 🚀 Tecnologías y Herramientas
-
-### 🖥️ Frontend
-
-- HTML • CSS • Tailwind
-- JavaScript • TypeScript
-- React.js • Next.js • Astro.js
-- UX/UI Design
-
-### ⚙️ Backend
-
-- Python • Django • FastAPI
-- Celery • Redis
-
-### 🤖 Machine Learning & Data
-
-- TensorFlow • PyTorch • Pandas • OpenCV
-
-### 🗄️ Bases de Datos
-
-- PostgreSQL • MySQL • MongoDB
-
-### 🛠️ Extras
-
-- SEO • Docker
-- Git & GitHub
-- Desarrollo full-stack de aplicaciones y sistemas
+I’m a Software Engineering student (UCI, 2021 - 2025) with hands-on experience in **frontend and backend development**, machine learning, and application deployment.  
+I define myself as a curious, proactive, and constantly learning person, always aiming to bring value and create innovative digital solutions.  
 
 ---
 
-## 💼 Experiencia
+## 🚀 Technologies & Tools  
 
-- **Principal Frontend Engineer** | _DixBase_ (Jun 2024 - Sep 2025)
+### 🖥️ Frontend  
+- HTML • CSS • Tailwind  
+- JavaScript • TypeScript  
+- React.js • Next.js • Astro.js  
+- UX/UI Design  
 
-  - Liderazgo en desarrollo frontend
-  - Diseño e implementación de interfaces (UI)
-  - Optimización de rendimiento y experiencia de usuario (UX)
-  - Desarrollo de arquitectura y lógica del lado del cliente
+### ⚙️ Backend  
+- Python • Django • FastAPI  
+- Celery • Redis  
 
-- **Desarrollador Fullstack** | _Empresa Mixta Z17_ (Ene 2025 - Sep 2025)
-  - Creación de soluciones personalizadas para clientes
-  - Implementación de frontend y backend
-  - Gestión del ciclo de vida completo del software
+### 🤖 Machine Learning & Data  
+- TensorFlow • PyTorch • Pandas • OpenCV  
 
----
+### 🗄️ Databases  
+- PostgreSQL • MySQL • MongoDB  
 
-## 📚 Formación
-
-🎓 **Ingeniería en Ciencias Informáticas**  
-Universidad de las Ciencias Informáticas (UCI) | 2021 - 2025
-
----
-
-## 🌐 Encuéntrame en
-
-- 💼 [LinkedIn](https://linkedin.com/in/alfiguez)
-- 🖥️ [Portfolio](https://v0-personal-portfolio-website-ten-gold.vercel.app/)
-- 🐙 [GitHub](https://github.com/ale-01cu)
+### 🛠️ Extras  
+- SEO • Docker  
+- Git & GitHub  
+- Full-stack application and system development  
 
 ---
 
-## ✨ Sobre mí
+## 💼 Work Experience  
 
-Apasionado de la ingeniería de software desde los 17 años.  
-Mi objetivo es **dar vida a productos digitales innovadores**, enfrentar nuevos retos y contribuir con mi experiencia al éxito de cada proyecto.
+- **Principal Frontend Engineer** | *DixBase* (Jun 2024 - Sep 2025)  
+  - Led frontend development efforts  
+  - Designed and implemented user interfaces (UI)  
+  - Optimized performance and user experience (UX)  
+  - Developed client-side architecture and logic  
 
-📍 La Habana, Cuba  
-📧 alejandro.figueroa.rodriguez.01@gmail.com
+- **Fullstack Developer** | *Empresa Mixta Z17* (Jan 2025 - Sep 2025)  
+  - Built custom solutions for clients  
+  - Implemented both frontend and backend systems  
+  - Managed the complete software lifecycle  
 
 ---
 
-⭐️ Si te interesa colaborar en proyectos de tecnología, ¡no dudes en escribirme!
+## 📚 Education  
+
+🎓 **Software Engineering**  
+University of Informatics Sciences (UCI) | 2021 - 2025  
+
+---
+
+## 🌐 Connect with me  
+
+- 💼 [LinkedIn](https://linkedin.com/in/alfiguez)  
+- 🖥️ [Portfolio](https://v0-personal-portfolio-website-ten-gold.vercel.app/)  
+- 🐙 [GitHub](https://github.com/ale-01cu)  
+
+---
+
+## ✨ About Me  
+
+Passionate about software engineering since the age of 17.  
+My goal is to **bring innovative digital products to life**, take on new challenges, and contribute my expertise to the success of every project I join.  
+
+📍 Havana, Cuba  
+📧 alejandro.figueroa.rodriguez.01@gmail.com  
+
+---
+⭐️ If you’re interested in collaborating on tech projects, feel free to reach out!
