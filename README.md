@@ -1,74 +1,83 @@
-# 👋 Hi, I'm Alejandro Figueroa Rodríguez  
+# 👋 Hi, I'm Alejandro Figueroa Rodríguez
 
-🎯 **Software Developer | Fullstack Engineer | Passionate about Innovation**  
+🎯 **Software Developer | Fullstack Engineer | Innovation Enthusiast**
 
-I’m a Software Engineering student (UCI, 2021 - 2025) with hands-on experience in **frontend and backend development**, machine learning, and application deployment.  
-I define myself as a curious, proactive, and constantly learning person, always aiming to bring value and create innovative digital solutions.  
-
----
-
-## 🚀 Technologies & Tools  
-
-### 🖥️ Frontend  
-- HTML • CSS • Tailwind  
-- JavaScript • TypeScript  
-- React.js • Next.js • Astro.js  
-- UX/UI Design  
-
-### ⚙️ Backend  
-- Python • Django • FastAPI  
-- Celery • Redis  
-
-### 🤖 Machine Learning & Data  
-- TensorFlow • PyTorch • Pandas • OpenCV  
-
-### 🗄️ Databases  
-- PostgreSQL • MySQL • MongoDB  
-
-### 🛠️ Extras  
-- SEO • Docker  
-- Git & GitHub  
-- Full-stack application and system development  
+I’m a Software Engineering student (UCI, 2021 - 2025) with solid experience in **frontend and backend development**, machine learning, and cloud deployment.
+I define myself as a curious and proactive problem-solver, constantly learning new technologies to deliver value and create scalable digital solutions.
 
 ---
 
-## 💼 Work Experience  
+## 🚀 Technologies & Tools
 
-- **Principal Frontend Engineer** | *DixBase* (Jun 2024 - Sep 2025)  
-  - Led frontend development efforts  
-  - Designed and implemented user interfaces (UI)  
-  - Optimized performance and user experience (UX)  
-  - Developed client-side architecture and logic  
+### 💻 Programming Languages
+- **Core:** JavaScript • TypeScript • Python
+- **🌱 Currently Learning:** Rust
 
-- **Fullstack Developer** | *Empresa Mixta Z17* (Jan 2025 - Sep 2025)  
-  - Built custom solutions for clients  
-  - Implemented both frontend and backend systems  
-  - Managed the complete software lifecycle  
+### 🖥️ Frontend Development
+- **Frameworks:** React.js • Next.js • Astro.js • React Router
+- **Styling:** Tailwind CSS • HTML5 • CSS3
+- **Design:** UX/UI Principles
+
+### ⚙️ Backend & API
+- **Runtime & Frameworks:** Node.js • Express.js • Django • FastAPI
+- **Architecture:** RESTful APIs • Microservices
+- **Tools:** Celery • Redis
+
+### 🤖 Machine Learning & Data Science
+- TensorFlow • PyTorch • Pandas • OpenCV
+
+### 🗄️ Databases
+- PostgreSQL • MySQL • MongoDB
+
+### 🛠️ DevOps & Tools
+- **Containerization:** Docker
+- **Version Control:** Git & GitHub
+- **Others:** SEO Optimization • Linux
+
+---
+
+## 💼 Work Experience
+
+**Principal Frontend Engineer** | *DixBase*
+*(Jun 2024 - Jan 2026)*
+- Led the frontend development lifecycle and architectural decisions.
+- Designed and implemented responsive User Interfaces (UI) with a focus on accessibility.
+- Optimized application performance, significantly improving User Experience (UX).
+- Developed complex client-side logic and state management.
+
+**Fullstack Developer** | *Empresa Mixta Z17*
+*(Jan 2025 - Jan 2026)*
+- Built custom full-stack solutions tailored to specific client needs.
+- Implemented robust backend systems using Python/Django and modern frontend interfaces.
+- Managed the complete software development lifecycle (SDLC) from concept to deployment.
 
 ---
 
-## 📚 Education  
+## 📚 Education
 
-🎓 **Software Engineering**  
-University of Informatics Sciences (UCI) | 2021 - 2025  
-
----
-
-## 🌐 Connect with me  
-
-- 💼 [LinkedIn](https://linkedin.com/in/alfiguez)  
-- 🖥️ [Portfolio](https://v0-personal-portfolio-website-ten-gold.vercel.app/)  
-- 🐙 [GitHub](https://github.com/ale-01cu)  
+🎓 **Software Engineering**
+*University of Informatics Sciences (UCI)* | 2021 - 2025
 
 ---
 
-## ✨ About Me  
+## ✨ About Me
 
-Passionate about software engineering since the age of 17.  
-My goal is to **bring innovative digital products to life**, take on new challenges, and contribute my expertise to the success of every project I join.  
+Passionate about software engineering since the age of 17. My goal is to **bring innovative digital products to life**, embrace challenging projects, and contribute high-quality code to every team I join. Currently expanding my horizons by learning **Rust** for systems programming.
 
-📍 Havana, Cuba  
-📧 alejandro.figueroa.rodriguez.01@gmail.com  
+📍 **Location:** Havana, Cuba
+📧 **Email:** [alejandro.figueroa.rodriguez.01@gmail.com](mailto:alejandro.figueroa.rodriguez.01@gmail.com)
 
 ---
-⭐️ If you’re interested in collaborating on tech projects, feel free to reach out!
+
+## 🌐 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alefiguerodev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-personal-portfolio-website-ten-gold.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ale-01cu)
+
+</div>
+
+---
+⭐️ *If you’re interested in collaborating on tech projects, feel free to reach out!*
