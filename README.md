@@ -7,6 +7,16 @@ I define myself as a curious and proactive problem-solver, constantly learning n
 
 ---
 
+## 🌍 Proyectos en Producción
+
+| Project | Description | Status | Link |
+|---|---|---|---|
+| **Dedomena** | Dynamic landing page — Next.js + Strapi, all content via CMS | [![Status](https://img.shields.io/website?url=https%3A%2F%2Fdedomena.ai%2Fes&up_message=online&down_message=offline&style=flat-square)](https://dedomena.ai/es) | [Visit →](https://dedomena.ai/es) |
+| **SkinSagePro** | Sole developer — full stack, infrastructure and architecture | [![Status](https://img.shields.io/website?url=https%3A%2F%2Fskinsagepro.ai&up_message=online&down_message=offline&style=flat-square)](https://skinsagepro.ai/) | [Visit →](https://skinsagepro.ai/) |
+| **DixBase** | Sole frontend on the project — full development and maintenance | [![Status](https://img.shields.io/website?url=https%3A%2F%2Fdixbase.com&up_message=online&down_message=offline&style=flat-square)](https://dixbase.com/) | [Visit →](https://dixbase.com/) |
+
+---
+
 ## 🚀 Technologies & Tools
 
 ### 💻 Programming Languages
@@ -20,7 +30,8 @@ I define myself as a curious and proactive problem-solver, constantly learning n
 
 ### ⚙️ Backend & API
 - **Runtime & Frameworks:** Node.js • Express.js • Django • FastAPI
-- **Architecture:** RESTful APIs • Microservices
+- **CMS:** Strapi (headless CMS)
+- **Architecture:** RESTful APIs
 - **Tools:** Celery • Redis
 
 ### 🤖 Machine Learning & Data Science
@@ -33,10 +44,22 @@ I define myself as a curious and proactive problem-solver, constantly learning n
 - **Containerization:** Docker
 - **Version Control:** Git & GitHub
 - **Others:** SEO Optimization • Linux
+- **Google Cloud Platform (GCP)**
 
 ---
 
 ## 💼 Work Experience
+
+**Full Stack Developer** | *Dedomena*
+*(Feb 2026 - Present)*
+- Built the company's main landing page using Next.js and a Strapi headless CMS, with all content and copy fully data-driven — no static content in the frontend.
+- Design and maintain both frontend and backend solutions for the company's products.
+
+**Full Stack Developer** | *SkinSagePro (client project via DeDomena)*
+*(Feb 2026 - Present)*
+- Sole developer on the project, owning the entire stack: frontend, backend, database, deployments, maintenance, and product architecture.
+- Built AI-powered features using OpenAI models and RAG (Retrieval-Augmented Generation) pipelines.
+- Stack: Next.js, FastAPI, PostgreSQL, data pipelines, and Google Cloud Platform for deployment and infrastructure.
 
 **Principal Frontend Engineer** | *DixBase*
 *(Jun 2024 - Jan 2026)*
@@ -57,6 +80,9 @@ I define myself as a curious and proactive problem-solver, constantly learning n
 
 🎓 **Software Engineering**
 *University of Informatics Sciences (UCI)* | 2021 - 2025
+
+🌐 **English Language Studies**
+*Babel Language School, Havana* | Early 2026 - Present
 
 ---
 
