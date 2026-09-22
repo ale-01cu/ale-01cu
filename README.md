@@ -17,7 +17,7 @@ I define myself as a curious and proactive problem-solver, constantly learning n
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies & Tools I have worked with
 
 ### 💻 Programming Languages
 - **Core:** JavaScript • TypeScript • Python
