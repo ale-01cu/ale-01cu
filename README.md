@@ -7,7 +7,7 @@ I define myself as a curious and proactive problem-solver, constantly learning n
 
 ---
 
-## 🌍 Proyectos en Producción
+## 🌍 Projects in Production
 
 | Project | Description | Status | Link |
 |---|---|---|---|
